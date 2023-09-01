@@ -1,1 +1,1 @@
-# Online-Voting-System-Using-Java
+# Online-Voting-System
